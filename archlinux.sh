@@ -1,5 +1,5 @@
 # Shell
-pacman -S git hub zsh neovim tmux fzf fasd the_silver_searcher thefuck
+pacman -S git hub zsh neovim tmux fzf fasd the_silver_searcher thefuck mlocate cloc
 
 # Go
 pacman -S go
